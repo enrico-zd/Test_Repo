@@ -1,4 +1,5 @@
 print("yooo semuaa")
 print("lagi coba git nich")
 print("lagi coba git nich")
-print("")
+print("coba coba lagi ni")
+print("coba coba lagi ni")
